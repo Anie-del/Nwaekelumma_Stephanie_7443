@@ -1,0 +1,2 @@
+Total number of Office files: 12
+Total size of Office files: 2674311 bytes
