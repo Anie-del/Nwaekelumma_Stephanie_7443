@@ -1,0 +1,4 @@
+C:\Pythagoras Dokpesi 8941 Challenge Solutions\Regex\Challenge\obj\Debug\net6.0\Challenge.GeneratedMSBuildEditorConfig.editorconfig
+C:\Pythagoras Dokpesi 8941 Challenge Solutions\Regex\Challenge\obj\Debug\net6.0\Challenge.AssemblyInfoInputs.cache
+C:\Pythagoras Dokpesi 8941 Challenge Solutions\Regex\Challenge\obj\Debug\net6.0\Challenge.AssemblyInfo.cs
+C:\Pythagoras Dokpesi 8941 Challenge Solutions\Regex\Challenge\obj\Debug\net6.0\Challenge.csproj.CoreCompileInputs.cache

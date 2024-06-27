@@ -39,5 +39,6 @@ class OfficeFileSummary
     static bool IsOfficeFile(string extension, string[] officeExtensions)
     {
         return officeExtensions.Contains(extension.ToLower());
+        
     }
 }
