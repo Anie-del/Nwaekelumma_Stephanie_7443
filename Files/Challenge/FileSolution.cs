@@ -3,10 +3,7 @@ using System;
 using System.IO;
 using System.Linq;
 
-class OfficeFileSummary
-{
-    static void Main()
-    {
+
         string directoryName = "FileCollection";
         string resultsFileName = "results.txt";
         string[] officeExtensions = { ".xlsx", ".docx", ".pptx" };
@@ -34,11 +31,11 @@ class OfficeFileSummary
         }
 
         Console.WriteLine("Summary generated successfully.");
-    }
+    
 
-    static bool IsOfficeFile(string extension, string[] officeExtensions)
+     bool IsOfficeFile(string extension, string[] officeExtensions)
     {
         return officeExtensions.Contains(extension.ToLower());
         
     }
-}
+

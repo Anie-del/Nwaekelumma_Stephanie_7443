@@ -1,11 +1,11 @@
 using System;
 using System.Text.RegularExpressions;
 
-// Pythagoras Dokpesi BU/23C/IT/8941
+                    // Pythagoras Dokpesi BU/23C/IT/8941
 
         while (true)
         {
-            Console.WriteLine("Enter a date (mm/dd/yyyy) or type 'exit' to quit:");
+            Console.WriteLine("Enter a date (MM/DD/yyyy) or type 'exit' to quit:");
             string input = Console.ReadLine();
 
             if (input.ToLower() == "exit")
@@ -18,14 +18,14 @@ using System.Text.RegularExpressions;
                 string result = ReverseDateFormat(input);
                 Console.WriteLine($"Converted date: {result}");
             }
-            catch (Exception ex)
+            catch (Exception e)
             {
-                Console.WriteLine($"Error: {ex.Message}");
+                Console.WriteLine($"Error: {e.Message}");
             }
         }
     
 
-    public static string ReverseDateFormat(string dateInput)
+     string ReverseDateFormat(string dateInput)
     {
         if (string.IsNullOrWhiteSpace(dateInput))
         {
@@ -41,22 +41,18 @@ using System.Text.RegularExpressions;
 
             if (match.Success)
             {
-                // Extract the components
                 string month = match.Groups["mon"].Value;
                 string day = match.Groups["day"].Value;
                 string year = match.Groups["year"].Value;
 
-                // Normalize year to 4 digits
                 if (year.Length == 2)
                 {
-                    year = "20" + year; // Assuming dates in 2000-2099 range
+                    year = "20" + year; 
                 }
 
-                // Validate the date
                 string normalizedDate = $"{month}/{day}/{year}";
                 if (DateTime.TryParse(normalizedDate, out DateTime parsedDate))
                 {
-                    // Return the date in yyyy-mm-dd format
                     return parsedDate.ToString("yyyy-MM-dd");
                 }
                 else

@@ -2,3 +2,13 @@ C:\Pythagoras Dokpesi 8941 Challenge Solutions\Regex\Challenge\obj\Debug\net6.0\
 C:\Pythagoras Dokpesi 8941 Challenge Solutions\Regex\Challenge\obj\Debug\net6.0\Challenge.AssemblyInfoInputs.cache
 C:\Pythagoras Dokpesi 8941 Challenge Solutions\Regex\Challenge\obj\Debug\net6.0\Challenge.AssemblyInfo.cs
 C:\Pythagoras Dokpesi 8941 Challenge Solutions\Regex\Challenge\obj\Debug\net6.0\Challenge.csproj.CoreCompileInputs.cache
+C:\Pythagoras Dokpesi 8941 Challenge Solutions\Regex\Challenge\bin\Debug\net6.0\Challenge.exe
+C:\Pythagoras Dokpesi 8941 Challenge Solutions\Regex\Challenge\bin\Debug\net6.0\Challenge.deps.json
+C:\Pythagoras Dokpesi 8941 Challenge Solutions\Regex\Challenge\bin\Debug\net6.0\Challenge.runtimeconfig.json
+C:\Pythagoras Dokpesi 8941 Challenge Solutions\Regex\Challenge\bin\Debug\net6.0\Challenge.dll
+C:\Pythagoras Dokpesi 8941 Challenge Solutions\Regex\Challenge\bin\Debug\net6.0\Challenge.pdb
+C:\Pythagoras Dokpesi 8941 Challenge Solutions\Regex\Challenge\obj\Debug\net6.0\Challenge.dll
+C:\Pythagoras Dokpesi 8941 Challenge Solutions\Regex\Challenge\obj\Debug\net6.0\refint\Challenge.dll
+C:\Pythagoras Dokpesi 8941 Challenge Solutions\Regex\Challenge\obj\Debug\net6.0\Challenge.pdb
+C:\Pythagoras Dokpesi 8941 Challenge Solutions\Regex\Challenge\obj\Debug\net6.0\Challenge.genruntimeconfig.cache
+C:\Pythagoras Dokpesi 8941 Challenge Solutions\Regex\Challenge\obj\Debug\net6.0\ref\Challenge.dll
